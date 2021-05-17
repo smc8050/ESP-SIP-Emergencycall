@@ -1,6 +1,17 @@
 BSD 3-Clause License
 
-Copyright (c) 2021, smc8050
+Copyright (c) 2018 Juergen Liegner  All rights reserved.
+(https://www.mikrocontroller.net/topic/444994)
+
+Copyright (c) 2019 Florian Wernze
+(https://wernze-home.net/wordpress/hobbys/arduino-esp8266-tuerklingel/)
+
+Copyright (c) 2019 Thorsten Godau (dl9sec)
+(Did some optimizations, extensions and beautification of Florian's code
+and integrated the library)
+
+Copyright (c) 2021 Steivan Claglüna
+(Did some changes to work as a fire alarm)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
